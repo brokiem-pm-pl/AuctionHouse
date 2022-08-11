@@ -1,4 +1,4 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Shock95x/AuctionHouse
+---
 projects:
   AuctionHouse:
     path: ""
@@ -9,7 +9,7 @@ projects:
     - src: poggit/libasynql/libasynql
       version: ^3.4.0
     - src: brokiem-pm-pl/InvMenu/InvMenu
-      version: ^4.4.1
+      version: ^4.3.5
       branch: "4.0"
     - src: ifera-mc/UpdateNotifier/UpdateNotifier
       version: ^2.2.0
